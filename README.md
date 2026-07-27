@@ -1,8 +1,19 @@
 SenseDesktop AI is a real-time multimodal AI desktop copilot designed to transform your daily workstation experience. By combining computer vision, gesture recognition, health sensor analytics, automatic speech recognition (ASR), and Large Language Models (LLM), SenseDesktop AI continuously senses your surrounding environment, guards your posture, and delivers contextual, human-like voice interaction.
 ✨ Key Features
-## 📸 Demo Preview
+## 📸 Demo & Screenshots
 
-![Demo Showcase](ScreenShot_2026-07-27_210851_323.png)
+| 界面与视觉识别 | 实时画幅与监测 |
+| :---: | :---: |
+| ![Preview 1](ScreenShot_2026-07-27_210851_323.png) | ![Preview 2](ScreenShot_2026-07-27_210911_678.png) |
+
+| 手势与姿态检测 | 疲劳与健康关怀 |
+| :---: | :---: |
+| ![Preview 3](ScreenShot_2026-07-27_210937_994.png) | ![Preview 4](ScreenShot_2026-07-27_211000_269.png) |
+
+| OCR 与物体识读 | 对话与交互演示 |
+| :---: | :---: |
+| ![Preview 5](ScreenShot_2026-07-27_211018_727.png) | ![Preview 6](ScreenShot_2026-07-27_211035_462.png) |
+
 👁️ Real-time Computer Vision & Object Recognition
 YOLOv8 Detection: Real-time object detection and bounding box visualization (laptops, cups, phones, books, etc.).
 Heuristic OpenCV Feature Augmentation: Built-in Haar cascade classifiers to recognize personal accessories like glasses even in text-only LLM pipelines.
