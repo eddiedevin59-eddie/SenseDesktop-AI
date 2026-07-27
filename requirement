@@ -1,0 +1,24 @@
+# --- GUI 界面与图形渲染 ---
+PyQt5>=5.15.0
+
+# --- 计算机视觉与机器学习 ---
+opencv-python>=4.8.0.74
+ultralytics>=8.0.0
+mediapipe>=0.10.0
+numpy>=1.23.0
+
+# --- OCR 文字识别 (可选但推荐) ---
+paddlepaddle>=2.5.0
+paddleocr>=2.7.0
+
+# --- 大模型 API 客户端 ---
+openai>=1.0.0
+
+# --- 语音合成 (TTS) 与 播放 ---
+edge-tts>=6.1.0
+pygame>=2.5.0
+
+# --- 语音识别 (ASR) ---
+SpeechRecognition>=3.10.0
+PyAudio>=0.2.13
+pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple  #清华镜像
